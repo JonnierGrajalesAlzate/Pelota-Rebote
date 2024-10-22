@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|c:\\users\\57304\\desktop\\pelota rebote\\pelota-rebote\\graficacionform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|c:\\users\\57304\\desktop\\pelota rebote\\pelota-rebote\\graficacionform\\frmjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|solutionrelative:frmjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|c:\\users\\57304\\desktop\\pelota rebote\\pelota-rebote\\graficacionform\\frmjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DC1F3-482B-468F-B71A-034C58B040B9}|procesoDeHilos.csproj|solutionrelative:frmjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:57:19.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmJuego.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\frmJuego.cs",
+              "RelativeDocumentMoniker": "frmJuego.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\frmJuego.cs",
+              "RelativeToolTip": "frmJuego.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:53:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmJuego.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\frmJuego.cs",
+              "RelativeDocumentMoniker": "frmJuego.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\Pelota Rebote\\Pelota-Rebote\\GraficacionForm\\frmJuego.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmJuego.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:40:23.66Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
